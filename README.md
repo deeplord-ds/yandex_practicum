@@ -1,2 +1,2 @@
 # Проекты yandex_practicum
-В данной репозитории находятся проекты yandex practicum
+В данном репозитории находятся проекты yandex practicum
